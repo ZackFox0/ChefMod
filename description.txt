@@ -1,1 +1,5 @@
-Chef's Delight is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Chef's Delight introduces plenty of use for your planterboxes and gives you a reason to kill or capture critters (other than just selling them off of course!).
+
+It provides lots of extra endemic life and botany, and a more complex cooking process for a more peaceful life in Terraria. Though that isn't entirely the point of the game as a whole, which is why the fruits of your labor will help you far more than the simple cooking you could do in vanilla.
+
+And just to top it all off, you also get to craft weapons and armor made from various cooking methods, from baguette swords to summoning flying pizza slices to slap your enemies senseless. Yes, I'm serious.
