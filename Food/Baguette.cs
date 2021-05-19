@@ -17,6 +17,8 @@ namespace ChefMod.Food
     public override void SetDefaults()
     {
       item.CloneDefaults(ItemID.Mushroom);
+      item.width = 52;
+      item.height = 50;
       item.healLife = 30;
       item.potion = false;
     }
