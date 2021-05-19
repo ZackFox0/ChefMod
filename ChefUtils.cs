@@ -8,12 +8,12 @@ using System;
 
 namespace ChefMod
 {
-  public static class TynUtils
+  public static class ChefUtils
   {
-    public static Chef Tyn(this Player player) => player.GetModPlayer<Chef>();
-    public static ChefGlobalNPC Tyn(this NPC npc) => npc.GetGlobalNPC<ChefGlobalNPC>();
-    public static ChefGlobalItem Tyn(this Item item) => item.GetGlobalItem<ChefGlobalItem>();
-    public static ChefGlobalProj Tyn(this Projectile proj) => proj.GetGlobalProjectile<ChefGlobalProj>();
+    public static Chef Chef(this Player player) => player.GetModPlayer<Chef>();
+    public static ChefGlobalNPC Chef(this NPC npc) => npc.GetGlobalNPC<ChefGlobalNPC>();
+    public static ChefGlobalItem Chef(this Item item) => item.GetGlobalItem<ChefGlobalItem>();
+    public static ChefGlobalProj Chef(this Projectile proj) => proj.GetGlobalProjectile<ChefGlobalProj>();
 
     public static float InRadians(this float degrees) => MathHelper.ToRadians(degrees);
     public static float InDegrees(this float radians) => MathHelper.ToDegrees(radians);
